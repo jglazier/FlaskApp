@@ -1,2 +1,6 @@
 pip install gunicorn==19.4.5
+pip install pandas
+pip install bs4
+pip install requests
+pip install matplotlib
 pip freeze > requirements.txt
