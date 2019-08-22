@@ -1,0 +1,2 @@
+pip install gunicorn==19.4.5
+pip freeze > requirements.txt
